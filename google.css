@@ -3,4 +3,11 @@
 	margin: auto;
 	width: 30%;
 }
+#top{
+		display: block;
+		margin: 0 0 0 auto;
+}
 
+.toplink{
+		display: inline-block;
+}
